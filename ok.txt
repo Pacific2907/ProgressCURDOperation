@@ -1,1 +1,12 @@
-asasdfghjkl;
+step 1: git status
+step 2: git add .
+
+step 3: git config --global user.email "you@example.com"
+step 4: git config --global user.name "Your Name"
+
+step 5: git commit -m "commit name"
+git branch -M main
+
+
+step 6: git remote add origin https://github.com/Pacific2907/FirstProject.git    (example)
+step 7: git push -u origin main
